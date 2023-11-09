@@ -19,7 +19,7 @@
             />
         </g>
         <g class="spaces">
-            <g id="_1045" serif:id="1045">
+            <g id="space-1045">
                 <path
                     class="space_fill"
                     d="M2370.83,2862.47l0.056,216.777l-2000.3,2.37l0.059,-444.653l-68.456,0l0,-1045.21l521.25,-2.338l1.147,-96.458l147.538,2.731l-1.909,-124.444l0,-231.405l1400.22,2.44l-0.024,1720.82"
@@ -74,7 +74,7 @@
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 49.66px; stroke-dasharray: 4.97, 49.66, 9.93, 99.32;"
                 />
             </g>
-            <g id="_1046" serif:id="1046">
+            <g id="space-1046">
                 <path
                     id="space_fill3"
                     class="space_fill"
@@ -127,7 +127,7 @@
             </g>
         </g>
         <g class="study_rooms">
-            <g id="_61355" serif:id="61355">
+            <g id="study-61355">
                 <rect class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
                 <rect id="study_fill1" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
                 <clipPath id="_clip3"><rect id="study_fill2" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
@@ -152,7 +152,7 @@
                     </g>
                 </g>
             </g>
-            <g id="_36128" serif:id="36128">
+            <g id="study-36128">
                 <rect id="study_fill3" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
                 <rect id="study_fill4" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
                 <clipPath id="_clip4"><rect id="study_fill5" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
@@ -1007,6 +1007,47 @@
             <path d="M1576.13,3799.92l517.466,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 16px; stroke-linecap: butt;" />
             <path d="M1576.13,3849.37l517.466,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 16px; stroke-linecap: butt;" />
         </g>
+        <g id="symbols1" class="symbols">
+            <g id="Book">
+                <path d="M2459.95,2008.75l-13.394,-18.471l-51.929,12.368l-52.257,-12.487l-15.158,18.59l-0,86.634l132.738,0l0,-86.634Z" style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 32.26px;" />
+                <path
+                    d="M2341.46,1991.94l-0,84.496c-0,1.579 0.79,2.369 2.369,2.369c16.583,-0 30.008,3.159 41.853,9.476c2.369,0.79 3.949,2.369 6.318,3.949l-0,-90.814c-14.215,-8.687 -29.219,-11.845 -48.171,-11.845c-1.579,-0 -2.369,0.789 -2.369,2.369Z"
+                    style="fill: #5c6c8a; fill-rule: nonzero;"
+                />
+                <path
+                    d="M2447.28,2076.44l0,-84.496c0,-1.58 -0.789,-2.369 -2.369,-2.369c-18.952,-0 -34.746,3.948 -48.17,12.635l-0,90.813c2.369,-1.579 3.948,-2.369 6.317,-3.948c11.845,-6.318 25.27,-9.476 41.853,-9.476c1.58,-0.79 2.369,-2.369 2.369,-3.159Z"
+                    style="fill: #5c6c8a; fill-rule: nonzero;"
+                />
+                <path
+                    d="M2341.46,2085.12c-3.949,0 -7.897,-3.158 -7.897,-7.896l0,-75.81l-7.897,-0c-1.579,-0 -2.369,0.79 -2.369,2.369l0,89.234c0,1.58 0.79,2.369 2.369,2.369l58.437,0c-3.159,-2.369 -7.107,-3.948 -11.056,-4.738c-9.476,-3.948 -19.742,-5.528 -31.587,-5.528Z"
+                    style="fill: #5c6c8a; fill-rule: nonzero;"
+                />
+                <path
+                    d="M2463.07,2002.21l-7.897,-0l0,75.809c0,3.949 -3.158,7.897 -7.897,7.897c-11.845,0 -22.9,1.58 -32.377,4.738c-3.948,1.58 -7.107,3.159 -11.055,4.738l58.436,0c1.58,0 2.37,-0.789 2.37,-2.369l-0,-88.444c0.789,-1.58 -0,-2.369 -1.58,-2.369Z"
+                    style="fill: #5c6c8a; fill-rule: nonzero;"
+                />
+            </g>
+            <g id="Globe">
+                <path
+                    d="M1366.29,3598.76l-0.815,-17.588l-16.588,-31.087l-27.493,-14.859l-38.12,-3.423l-20.189,15.135l-12.801,15.698l0,73.157l50.397,26.759l53.858,-34.593l11.751,-29.199Z"
+                    style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 27.24px;"
+                />
+                <path
+                    d="M1302.04,3526.81c-38.359,-0 -69.373,31.013 -69.373,69.372c0,38.359 31.014,69.373 69.373,69.373c38.359,-0 69.372,-31.014 69.372,-69.373c0,-38.359 -31.013,-69.372 -69.372,-69.372Zm59.579,76.718c-0,0.816 -1.633,1.632 -2.449,0.816c-3.264,-2.449 -0.816,-4.897 -1.632,-6.529c-1.632,-1.633 -6.529,-1.633 -8.978,-4.897c-2.448,-2.449 -0.816,-3.265 -1.632,-5.713c-0.816,-1.633 -5.713,-4.897 -8.978,-4.081c-4.08,0.816 -7.345,2.448 -6.529,5.713c0,3.265 12.242,1.632 12.242,8.161c0,2.449 -4.896,4.081 -5.713,5.713c-0.816,1.633 -0.816,4.081 -2.448,4.897c-0.816,0.816 -4.081,-0.816 -4.897,0c-0.816,0.816 -0.816,3.265 -1.632,4.081c-0.816,0.816 -6.529,1.632 -8.162,3.265c-1.632,2.448 -0.816,8.161 -1.632,9.793c-0.816,1.633 -4.081,4.897 -4.081,7.346c-0.816,3.264 0.816,7.345 0,9.793c-2.448,5.713 -14.69,8.978 -20.403,4.897c-3.265,-2.448 -0.816,-6.529 -2.449,-8.977c-0.816,-1.633 -2.448,-1.633 -4.897,-4.081c-2.448,-3.265 0.816,-6.529 -0.816,-9.794c-2.448,-3.264 -16.323,-7.345 -18.771,-13.058c-1.632,-4.081 -2.449,-13.875 -0.816,-17.955c0.816,-2.449 5.713,-4.081 8.161,-5.713c1.632,-1.633 3.265,-4.897 6.529,-5.713c3.265,-0.817 6.529,2.448 8.162,4.08c1.632,0.816 4.081,-0.816 6.529,0c2.448,0.816 11.426,8.162 14.691,8.162c4.08,-0 4.896,-4.897 4.896,-8.162c0,-3.264 -7.345,-1.632 -8.977,-3.264c-1.632,-0.816 -4.081,-5.713 -7.345,-5.713c-3.265,-0 -7.346,3.264 -11.427,3.264c-4.08,0.816 -5.713,-2.448 -6.529,-5.713c0,-3.264 4.081,-5.713 6.529,-6.529c3.265,-0.816 17.14,-2.448 25.301,-8.161c2.448,-1.633 2.448,-8.162 8.161,-12.243c4.081,-2.448 8.978,-1.632 12.243,-1.632l1.632,0c17.955,13.058 28.565,35.094 26.117,57.947Zm-65.292,-66.924c0.816,-0 0.816,-0 1.632,0.816c1.633,2.448 1.633,7.345 0,8.161c-2.448,1.632 -5.713,0 -6.529,1.632c-2.448,0.817 -1.632,4.081 -6.529,4.897c-2.449,0.816 -8.162,-2.448 -9.794,-2.448c-1.632,-0 -6.529,1.632 -8.161,2.448c-0,0.816 -1.633,0.816 -2.449,0.816c-1.632,0 -1.632,-1.632 -0.816,-2.448c8.978,-7.345 20.404,-12.242 32.646,-13.874Z"
+                    style="fill: #5c6c8a; fill-rule: nonzero;"
+                />
+            </g>
+            <g id="Globe1" serif:id="Globe">
+                <path
+                    d="M760.123,2501.33l-0.758,-16.342l-15.413,-28.884l-25.544,-13.807l-35.419,-3.18l-18.759,14.063l-11.894,14.586l0,67.973l46.826,24.863l50.042,-32.142l10.919,-27.13Z"
+                    style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 25.31px;"
+                />
+                <path
+                    d="M700.427,2434.48c-35.641,-0 -64.457,28.816 -64.457,64.457c0,35.641 28.816,64.457 64.457,64.457c35.641,0 64.458,-28.816 64.458,-64.457c-0,-35.641 -28.817,-64.457 -64.458,-64.457Zm55.358,71.282c-0,0.758 -1.517,1.517 -2.275,0.758c-3.034,-2.275 -0.759,-4.55 -1.517,-6.066c-1.517,-1.517 -6.066,-1.517 -8.341,-4.55c-2.275,-2.275 -0.759,-3.033 -1.517,-5.308c-0.758,-1.517 -5.308,-4.55 -8.342,-3.792c-3.791,0.758 -6.824,2.275 -6.066,5.308c-0,3.034 11.375,1.517 11.375,7.583c-0,2.275 -4.55,3.792 -5.309,5.309c-0.758,1.516 -0.758,3.791 -2.275,4.55c-0.758,0.758 -3.791,-0.759 -4.549,-0c-0.759,0.758 -0.759,3.033 -1.517,3.791c-0.758,0.759 -6.067,1.517 -7.583,3.033c-1.517,2.275 -0.759,7.584 -1.517,9.1c-0.758,1.517 -3.791,4.55 -3.791,6.825c-0.759,3.033 0.758,6.825 -0,9.1c-2.275,5.308 -13.65,8.342 -18.958,4.55c-3.034,-2.275 -0.759,-6.067 -2.275,-8.342c-0.759,-1.516 -2.275,-1.516 -4.55,-3.791c-2.275,-3.033 0.758,-6.067 -0.759,-9.1c-2.275,-3.033 -15.166,-6.825 -17.441,-12.133c-1.517,-3.792 -2.275,-12.892 -0.758,-16.683c0.758,-2.275 5.308,-3.792 7.583,-5.308c1.517,-1.517 3.033,-4.55 6.066,-5.309c3.034,-0.758 6.067,2.275 7.584,3.792c1.516,0.758 3.791,-0.758 6.066,-0c2.275,0.758 10.617,7.583 13.65,7.583c3.792,0 4.55,-4.55 4.55,-7.583c-0,-3.033 -6.825,-1.517 -8.342,-3.033c-1.516,-0.759 -3.791,-5.309 -6.825,-5.309c-3.033,0 -6.824,3.034 -10.616,3.034c-3.792,0.758 -5.308,-2.275 -6.067,-5.308c0,-3.034 3.792,-5.309 6.067,-6.067c3.033,-0.758 15.925,-2.275 23.508,-7.583c2.275,-1.517 2.275,-7.583 7.583,-11.375c3.792,-2.275 8.342,-1.517 11.375,-1.517l1.516,0c16.684,12.133 26.542,32.608 24.267,53.841Zm-60.666,-62.182c0.758,-0 0.758,-0 1.517,0.758c1.516,2.275 1.516,6.825 -0,7.583c-2.275,1.517 -5.308,0 -6.067,1.517c-2.275,0.758 -1.516,3.792 -6.066,4.55c-2.275,0.758 -7.583,-2.275 -9.1,-2.275c-1.517,-0 -6.067,1.517 -7.583,2.275c-0,0.758 -1.517,0.758 -2.275,0.758c-1.517,0 -1.517,-1.516 -0.759,-2.275c8.342,-6.825 18.958,-11.375 30.333,-12.891Z"
+                    style="fill: #5c6c8a; fill-rule: nonzero;"
+                />
+            </g>
+        </g>
         <g class="labels">
             <path
                 id="_166-label"
@@ -1273,47 +1314,6 @@
                 style="fill: #9eabc3; fill-rule: nonzero; stroke: #323232; stroke-opacity: 0; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
             />
         </g>
-        <g id="symbols1" class="symbols">
-            <g id="Book">
-                <path d="M2459.95,2008.75l-13.394,-18.471l-51.929,12.368l-52.257,-12.487l-15.158,18.59l-0,86.634l132.738,0l0,-86.634Z" style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 32.26px;" />
-                <path
-                    d="M2341.46,1991.94l-0,84.496c-0,1.579 0.79,2.369 2.369,2.369c16.583,-0 30.008,3.159 41.853,9.476c2.369,0.79 3.949,2.369 6.318,3.949l-0,-90.814c-14.215,-8.687 -29.219,-11.845 -48.171,-11.845c-1.579,-0 -2.369,0.789 -2.369,2.369Z"
-                    style="fill: #5c6c8a; fill-rule: nonzero;"
-                />
-                <path
-                    d="M2447.28,2076.44l0,-84.496c0,-1.58 -0.789,-2.369 -2.369,-2.369c-18.952,-0 -34.746,3.948 -48.17,12.635l-0,90.813c2.369,-1.579 3.948,-2.369 6.317,-3.948c11.845,-6.318 25.27,-9.476 41.853,-9.476c1.58,-0.79 2.369,-2.369 2.369,-3.159Z"
-                    style="fill: #5c6c8a; fill-rule: nonzero;"
-                />
-                <path
-                    d="M2341.46,2085.12c-3.949,0 -7.897,-3.158 -7.897,-7.896l0,-75.81l-7.897,-0c-1.579,-0 -2.369,0.79 -2.369,2.369l0,89.234c0,1.58 0.79,2.369 2.369,2.369l58.437,0c-3.159,-2.369 -7.107,-3.948 -11.056,-4.738c-9.476,-3.948 -19.742,-5.528 -31.587,-5.528Z"
-                    style="fill: #5c6c8a; fill-rule: nonzero;"
-                />
-                <path
-                    d="M2463.07,2002.21l-7.897,-0l0,75.809c0,3.949 -3.158,7.897 -7.897,7.897c-11.845,0 -22.9,1.58 -32.377,4.738c-3.948,1.58 -7.107,3.159 -11.055,4.738l58.436,0c1.58,0 2.37,-0.789 2.37,-2.369l-0,-88.444c0.789,-1.58 -0,-2.369 -1.58,-2.369Z"
-                    style="fill: #5c6c8a; fill-rule: nonzero;"
-                />
-            </g>
-            <g id="Globe">
-                <path
-                    d="M1366.29,3598.76l-0.815,-17.588l-16.588,-31.087l-27.493,-14.859l-38.12,-3.423l-20.189,15.135l-12.801,15.698l0,73.157l50.397,26.759l53.858,-34.593l11.751,-29.199Z"
-                    style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 27.24px;"
-                />
-                <path
-                    d="M1302.04,3526.81c-38.359,-0 -69.373,31.013 -69.373,69.372c0,38.359 31.014,69.373 69.373,69.373c38.359,-0 69.372,-31.014 69.372,-69.373c0,-38.359 -31.013,-69.372 -69.372,-69.372Zm59.579,76.718c-0,0.816 -1.633,1.632 -2.449,0.816c-3.264,-2.449 -0.816,-4.897 -1.632,-6.529c-1.632,-1.633 -6.529,-1.633 -8.978,-4.897c-2.448,-2.449 -0.816,-3.265 -1.632,-5.713c-0.816,-1.633 -5.713,-4.897 -8.978,-4.081c-4.08,0.816 -7.345,2.448 -6.529,5.713c0,3.265 12.242,1.632 12.242,8.161c0,2.449 -4.896,4.081 -5.713,5.713c-0.816,1.633 -0.816,4.081 -2.448,4.897c-0.816,0.816 -4.081,-0.816 -4.897,0c-0.816,0.816 -0.816,3.265 -1.632,4.081c-0.816,0.816 -6.529,1.632 -8.162,3.265c-1.632,2.448 -0.816,8.161 -1.632,9.793c-0.816,1.633 -4.081,4.897 -4.081,7.346c-0.816,3.264 0.816,7.345 0,9.793c-2.448,5.713 -14.69,8.978 -20.403,4.897c-3.265,-2.448 -0.816,-6.529 -2.449,-8.977c-0.816,-1.633 -2.448,-1.633 -4.897,-4.081c-2.448,-3.265 0.816,-6.529 -0.816,-9.794c-2.448,-3.264 -16.323,-7.345 -18.771,-13.058c-1.632,-4.081 -2.449,-13.875 -0.816,-17.955c0.816,-2.449 5.713,-4.081 8.161,-5.713c1.632,-1.633 3.265,-4.897 6.529,-5.713c3.265,-0.817 6.529,2.448 8.162,4.08c1.632,0.816 4.081,-0.816 6.529,0c2.448,0.816 11.426,8.162 14.691,8.162c4.08,-0 4.896,-4.897 4.896,-8.162c0,-3.264 -7.345,-1.632 -8.977,-3.264c-1.632,-0.816 -4.081,-5.713 -7.345,-5.713c-3.265,-0 -7.346,3.264 -11.427,3.264c-4.08,0.816 -5.713,-2.448 -6.529,-5.713c0,-3.264 4.081,-5.713 6.529,-6.529c3.265,-0.816 17.14,-2.448 25.301,-8.161c2.448,-1.633 2.448,-8.162 8.161,-12.243c4.081,-2.448 8.978,-1.632 12.243,-1.632l1.632,0c17.955,13.058 28.565,35.094 26.117,57.947Zm-65.292,-66.924c0.816,-0 0.816,-0 1.632,0.816c1.633,2.448 1.633,7.345 0,8.161c-2.448,1.632 -5.713,0 -6.529,1.632c-2.448,0.817 -1.632,4.081 -6.529,4.897c-2.449,0.816 -8.162,-2.448 -9.794,-2.448c-1.632,-0 -6.529,1.632 -8.161,2.448c-0,0.816 -1.633,0.816 -2.449,0.816c-1.632,0 -1.632,-1.632 -0.816,-2.448c8.978,-7.345 20.404,-12.242 32.646,-13.874Z"
-                    style="fill: #5c6c8a; fill-rule: nonzero;"
-                />
-            </g>
-            <g id="Globe1" serif:id="Globe">
-                <path
-                    d="M760.123,2501.33l-0.758,-16.342l-15.413,-28.884l-25.544,-13.807l-35.419,-3.18l-18.759,14.063l-11.894,14.586l0,67.973l46.826,24.863l50.042,-32.142l10.919,-27.13Z"
-                    style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 25.31px;"
-                />
-                <path
-                    d="M700.427,2434.48c-35.641,-0 -64.457,28.816 -64.457,64.457c0,35.641 28.816,64.457 64.457,64.457c35.641,0 64.458,-28.816 64.458,-64.457c-0,-35.641 -28.817,-64.457 -64.458,-64.457Zm55.358,71.282c-0,0.758 -1.517,1.517 -2.275,0.758c-3.034,-2.275 -0.759,-4.55 -1.517,-6.066c-1.517,-1.517 -6.066,-1.517 -8.341,-4.55c-2.275,-2.275 -0.759,-3.033 -1.517,-5.308c-0.758,-1.517 -5.308,-4.55 -8.342,-3.792c-3.791,0.758 -6.824,2.275 -6.066,5.308c-0,3.034 11.375,1.517 11.375,7.583c-0,2.275 -4.55,3.792 -5.309,5.309c-0.758,1.516 -0.758,3.791 -2.275,4.55c-0.758,0.758 -3.791,-0.759 -4.549,-0c-0.759,0.758 -0.759,3.033 -1.517,3.791c-0.758,0.759 -6.067,1.517 -7.583,3.033c-1.517,2.275 -0.759,7.584 -1.517,9.1c-0.758,1.517 -3.791,4.55 -3.791,6.825c-0.759,3.033 0.758,6.825 -0,9.1c-2.275,5.308 -13.65,8.342 -18.958,4.55c-3.034,-2.275 -0.759,-6.067 -2.275,-8.342c-0.759,-1.516 -2.275,-1.516 -4.55,-3.791c-2.275,-3.033 0.758,-6.067 -0.759,-9.1c-2.275,-3.033 -15.166,-6.825 -17.441,-12.133c-1.517,-3.792 -2.275,-12.892 -0.758,-16.683c0.758,-2.275 5.308,-3.792 7.583,-5.308c1.517,-1.517 3.033,-4.55 6.066,-5.309c3.034,-0.758 6.067,2.275 7.584,3.792c1.516,0.758 3.791,-0.758 6.066,-0c2.275,0.758 10.617,7.583 13.65,7.583c3.792,0 4.55,-4.55 4.55,-7.583c-0,-3.033 -6.825,-1.517 -8.342,-3.033c-1.516,-0.759 -3.791,-5.309 -6.825,-5.309c-3.033,0 -6.824,3.034 -10.616,3.034c-3.792,0.758 -5.308,-2.275 -6.067,-5.308c0,-3.034 3.792,-5.309 6.067,-6.067c3.033,-0.758 15.925,-2.275 23.508,-7.583c2.275,-1.517 2.275,-7.583 7.583,-11.375c3.792,-2.275 8.342,-1.517 11.375,-1.517l1.516,0c16.684,12.133 26.542,32.608 24.267,53.841Zm-60.666,-62.182c0.758,-0 0.758,-0 1.517,0.758c1.516,2.275 1.516,6.825 -0,7.583c-2.275,1.517 -5.308,0 -6.067,1.517c-2.275,0.758 -1.516,3.792 -6.066,4.55c-2.275,0.758 -7.583,-2.275 -9.1,-2.275c-1.517,-0 -6.067,1.517 -7.583,2.275c-0,0.758 -1.517,0.758 -2.275,0.758c-1.517,0 -1.517,-1.516 -0.759,-2.275c8.342,-6.825 18.958,-11.375 30.333,-12.891Z"
-                    style="fill: #5c6c8a; fill-rule: nonzero;"
-                />
-            </g>
-        </g>
     </g>
     <g class="floor" id="floor-1U">
         <rect class="transition" x="0" y="-0" width="5680" height="4120" style="fill: #fff; fill-opacity: 0.63; stroke: #fff; stroke-width: 59.38px;" />
@@ -1324,7 +1324,7 @@
             style="fill: #e6e8ec; stroke: #3e5074; stroke-width: 0.72px;"
         />
         <g id="spaces1" class="spaces">
-            <g id="_1049" serif:id="1049">
+            <g id="space-1049">
                 <path
                     id="space_fill6"
                     class="space_fill"
@@ -1382,7 +1382,7 @@
             </g>
         </g>
         <g id="study_rooms1" class="study_rooms">
-            <g id="_36126" serif:id="36126">
+            <g id="study-36126">
                 <rect id="study_fill6" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
                 <rect id="study_fill7" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
                 <clipPath id="_clip12"><rect id="study_fill8" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
@@ -1407,7 +1407,7 @@
                     </g>
                 </g>
             </g>
-            <g id="_36127" serif:id="36127">
+            <g id="study-36127">
                 <rect id="study_fill9" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
                 <rect id="study_fill10" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
                 <clipPath id="_clip13"><rect id="study_fill11" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
@@ -1729,21 +1729,21 @@
                 />
             </g>
             <g id="Book1" serif:id="Book">
-                <path d="M2459.95,2008.75l-13.394,-18.471l-51.929,12.368l-52.257,-12.487l-15.158,18.59l-0,86.634l132.738,0l0,-86.634Z" style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 32.26px;" />
+                <path d="M2453.74,1980.87l-12.233,-16.871l-47.43,11.296l-47.729,-11.405l-13.845,16.98l0,79.127l121.237,-0l-0,-79.127Z" style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 29.46px;" />
                 <path
-                    d="M2341.46,1991.94l-0,84.496c-0,1.579 0.79,2.369 2.369,2.369c16.583,-0 30.008,3.159 41.853,9.476c2.369,0.79 3.949,2.369 6.318,3.949l-0,-90.814c-14.215,-8.687 -29.219,-11.845 -48.171,-11.845c-1.579,-0 -2.369,0.789 -2.369,2.369Z"
+                    d="M2345.52,1965.52l-0,77.175c-0,1.442 0.721,2.164 2.164,2.164c15.146,-0 27.407,2.885 38.226,8.655c2.164,0.721 3.607,2.163 5.77,3.606l0,-82.945c-12.982,-7.934 -26.686,-10.819 -43.996,-10.819c-1.443,0 -2.164,0.722 -2.164,2.164Z"
                     style="fill: #5c6c8a; fill-rule: nonzero;"
                 />
                 <path
-                    d="M2447.28,2076.44l0,-84.496c0,-1.58 -0.789,-2.369 -2.369,-2.369c-18.952,-0 -34.746,3.948 -48.17,12.635l-0,90.813c2.369,-1.579 3.948,-2.369 6.317,-3.948c11.845,-6.318 25.27,-9.476 41.853,-9.476c1.58,-0.79 2.369,-2.369 2.369,-3.159Z"
+                    d="M2442.16,2042.69l0,-77.175c0,-1.442 -0.721,-2.164 -2.163,-2.164c-17.311,0 -31.736,3.607 -43.997,11.541l-0,82.944c2.164,-1.442 3.606,-2.164 5.77,-3.606c10.819,-5.77 23.08,-8.655 38.227,-8.655c1.442,-0.721 2.163,-2.164 2.163,-2.885Z"
                     style="fill: #5c6c8a; fill-rule: nonzero;"
                 />
                 <path
-                    d="M2341.46,2085.12c-3.949,0 -7.897,-3.158 -7.897,-7.896l0,-75.81l-7.897,-0c-1.579,-0 -2.369,0.79 -2.369,2.369l0,89.234c0,1.58 0.79,2.369 2.369,2.369l58.437,0c-3.159,-2.369 -7.107,-3.948 -11.056,-4.738c-9.476,-3.948 -19.742,-5.528 -31.587,-5.528Z"
+                    d="M2345.52,2050.62c-3.606,-0 -7.213,-2.885 -7.213,-7.213l0,-69.241l-7.212,0c-1.443,0 -2.164,0.722 -2.164,2.164l-0,81.502c-0,1.443 0.721,2.164 2.164,2.164l53.373,-0c-2.885,-2.164 -6.492,-3.606 -10.098,-4.328c-8.655,-3.606 -18.031,-5.048 -28.85,-5.048Z"
                     style="fill: #5c6c8a; fill-rule: nonzero;"
                 />
                 <path
-                    d="M2463.07,2002.21l-7.897,-0l0,75.809c0,3.949 -3.158,7.897 -7.897,7.897c-11.845,0 -22.9,1.58 -32.377,4.738c-3.948,1.58 -7.107,3.159 -11.055,4.738l58.436,0c1.58,0 2.37,-0.789 2.37,-2.369l-0,-88.444c0.789,-1.58 -0,-2.369 -1.58,-2.369Z"
+                    d="M2456.59,1974.89l-7.213,-0l0,69.24c0,3.607 -2.885,7.213 -7.213,7.213c-10.818,-0 -20.916,1.442 -29.571,4.327c-3.606,1.443 -6.491,2.885 -10.098,4.328l53.373,-0c1.443,-0 2.164,-0.721 2.164,-2.164l0,-80.781c0.721,-1.442 0,-2.163 -1.442,-2.163Z"
                     style="fill: #5c6c8a; fill-rule: nonzero;"
                 />
             </g>
@@ -1783,7 +1783,7 @@
             />
         </g>
         <g id="spaces2" class="spaces">
-            <g id="_1051" serif:id="1051">
+            <g id="space-1051">
                 <path
                     id="space_fill9"
                     class="space_fill"
@@ -1839,7 +1839,7 @@
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 49.66px; stroke-dasharray: 4.97, 49.66, 9.93, 99.32;"
                 />
             </g>
-            <g id="_1053" serif:id="1053">
+            <g id="space-1053">
                 <path id="space_fill12" class="space_fill" d="M2754.51,3288.89l2.69,621.858l1741.4,0l0,-831.497l-609.719,-0l-2.77,209.639l-1131.61,0Z" style="fill: #dfe3ea;" />
                 <clipPath id="_clip19"><path id="space_fill13" class="space_fill" d="M2754.51,3288.89l2.69,621.858l1741.4,0l0,-831.497l-609.719,-0l-2.77,209.639l-1131.61,0Z" /></clipPath>
                 <g clip-path="url(#_clip19)">
@@ -1879,42 +1879,47 @@
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
                 />
             </g>
-            <g id="_1050" serif:id="1050">
-                <path id="space_fill15" class="space_fill" d="M5146.89,312.508l-2392.62,-0l-10.403,623.728l1143.38,0.187l1.644,207.078l1258,-1.22l0,-829.773Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 26px;" />
-                <path id="space_fill16" class="space_fill" d="M5146.89,312.508l-2392.62,-0l-10.403,623.728l1143.38,0.187l1.644,207.078l1258,-1.22l0,-829.773Z" style="fill: #dfe3ea;" />
-                <clipPath id="_clip20"><path id="space_fill17" class="space_fill" d="M5146.89,312.508l-2392.62,-0l-10.403,623.728l1143.38,0.187l1.644,207.078l1258,-1.22l0,-829.773Z" /></clipPath>
+            <g id="space-1050">
+                <path id="space_fill15" class="space_fill" d="M2745.39,935.438l1143.49,-0l0,213.033l1258.13,-0l-0,-831.498l-609.719,0l-1791.9,-3.036l-0,621.501Z" style="fill: #dfe3ea;" />
+                <clipPath id="_clip20"><path id="space_fill16" class="space_fill" d="M2745.39,935.438l1143.49,-0l0,213.033l1258.13,-0l-0,-831.498l-609.719,0l-1791.9,-3.036l-0,621.501Z" /></clipPath>
                 <g clip-path="url(#_clip20)">
                     <g id="lines5" class="lines">
-                        <path d="M4015.98,-1396.14l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4166.14,-1394.65l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4166.14,-1245.99l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4314.8,-1245.99l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4314.8,-1097.32l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4463.46,-1097.32l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4463.46,-948.66l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4617.98,-942.81l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4617.98,-794.148l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4766.64,-794.148l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4766.64,-645.486l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4915.3,-645.486l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M4915.3,-496.824l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5059.91,-500.875l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5059.91,-352.213l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5208.57,-352.213l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5208.57,-203.55l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5357.24,-203.55l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5357.24,-54.888l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5511.75,-49.038l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5511.75,99.624l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5660.41,99.624l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5660.41,248.286l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5809.07,248.286l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5809.07,396.948l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
-                        <path d="M5959.23,398.443l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4234.78,-1773.91l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4384.94,-1772.41l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4384.94,-1623.75l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4533.6,-1623.75l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4533.6,-1475.09l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4682.26,-1475.09l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4682.26,-1326.42l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4836.77,-1320.58l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4836.77,-1171.91l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4985.43,-1171.91l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M4985.43,-1023.25l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5134.1,-1023.25l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5134.1,-874.588l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5278.71,-878.639l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5278.71,-729.977l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5427.37,-729.977l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5427.37,-581.315l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5576.03,-581.315l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5576.03,-432.653l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5730.54,-426.803l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5730.54,-278.141l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5879.21,-278.141l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M5879.21,-129.478l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M6027.87,-129.478l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M6027.87,19.184l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
+                        <path d="M6178.03,20.678l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                     </g>
                 </g>
+                <path
+                    id="space_fill17"
+                    class="space_fill"
+                    d="M2745.39,935.438l1143.49,-0l0,213.033l1258.13,-0l-0,-831.498l-609.719,0l-1791.9,-3.036l-0,621.501Z"
+                    style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
+                />
             </g>
-            <g id="_1052" serif:id="1052">
+            <g id="space-1052">
                 <path id="space_fill18" class="space_fill" d="M3669.3,2822.82l647.188,0l0,-568.766l-245.911,-0l-0,-283.157l242.331,0l-0,-568.788l-642.977,-0l-0.631,1420.71Z" style="fill: #dfe3ea;" />
                 <clipPath id="_clip21"><path id="space_fill19" class="space_fill" d="M3669.3,2822.82l647.188,0l0,-568.766l-245.911,-0l-0,-283.157l242.331,0l-0,-568.788l-642.977,-0l-0.631,1420.71Z" /></clipPath>
                 <g clip-path="url(#_clip21)">
@@ -2005,8 +2010,8 @@
             <path d="M518.847,1370.38l312.994,0.343l-1.033,-223.912l-139.5,0l4.785,112.606l-176.016,-6.853l-1.23,117.816Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 13.32px;" />
             <path d="M518.847,1370.38l312.994,0.343l-1.033,-223.912l-139.5,0l4.785,112.606l-176.016,-6.853l-1.23,117.816Z" style="fill: #bdc6d6;" />
         </g>
-        <g id="study-rooms" serif:id="study rooms">
-            <g id="_36129" serif:id="36129">
+        <g id="study_rooms2" class="study_rooms">
+            <g id="study-36129">
                 <rect id="study_fill12" class="study_fill" x="3237.79" y="1143.5" width="268.956" height="233.445" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 12.54px;" />
                 <rect id="study_fill13" class="study_fill" x="3237.79" y="1143.5" width="268.956" height="233.445" style="fill: #a1a9b9;" />
                 <clipPath id="_clip22"><rect id="study_fill14" class="study_fill" x="3237.79" y="1143.5" width="268.956" height="233.445" /></clipPath>
@@ -2652,13 +2657,7 @@
             <path d="M3534.34,2109.93l113.081,0" style="fill: none; stroke: #5c6c8a; stroke-width: 40.05px;" />
             <path d="M4316.48,2816.72l97.107,0" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <rect x="1216.19" y="1220.34" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
-            <rect x="1535.46" y="1220.34" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
-            <rect x="1847.58" y="1220.34" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
             <rect x="1216.19" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
-            <rect x="1535.46" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
-            <rect x="1847.58" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
-            <rect x="1216.19" y="2551.47" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
-            <rect x="1216.19" y="1599.83" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
             <rect x="2190.88" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
             <path d="M2756.35,3910.74l1742.26,0l0,-831.497" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M2757.2,3910.74l0,-634.621" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
@@ -3070,7 +3069,7 @@
             style="fill: #e6e8ec; stroke: #3e5074; stroke-width: 0.72px;"
         />
         <g id="spaces3" class="spaces">
-            <g id="_1054" serif:id="1054">
+            <g id="space-1054">
                 <path
                     id="space_fill21"
                     class="space_fill"
@@ -3127,7 +3126,7 @@
                 />
             </g>
         </g>
-        <g id="study-rooms1" serif:id="study rooms">
+        <g id="study_rooms3" class="study_rooms">
             <g id="_36132" serif:id="36132">
                 <rect id="study_fill15" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
                 <rect id="study_fill16" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
@@ -3178,7 +3177,7 @@
                     </g>
                 </g>
             </g>
-            <g id="_36130" serif:id="36130">
+            <g id="study-36130">
                 <path id="study_fill21" class="study_fill" d="M3238.28,2855.28l-110.096,-0l-0,92.038l-96.599,0l-0,123.122l208.644,-0l-1.949,-215.16Z" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
                 <path id="study_fill22" class="study_fill" d="M3238.28,2855.28l-110.096,-0l-0,92.038l-96.599,0l-0,123.122l208.644,-0l-1.949,-215.16Z" style="fill: #a1a9b9;" />
                 <clipPath id="_clip35"><path id="study_fill23" class="study_fill" d="M3238.28,2855.28l-110.096,-0l-0,92.038l-96.599,0l-0,123.122l208.644,-0l-1.949,-215.16Z" /></clipPath>
@@ -3203,7 +3202,7 @@
                     </g>
                 </g>
             </g>
-            <g id="_36133" serif:id="36133">
+            <g id="study-36133">
                 <rect id="study_fill24" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
                 <rect id="study_fill25" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
                 <clipPath id="_clip36"><rect id="study_fill26" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
@@ -3546,7 +3545,7 @@
             style="fill: #e6e8ec; stroke: #3e5074; stroke-width: 0.72px;"
         />
         <g id="spaces4" class="spaces">
-            <g id="_1055" serif:id="1055">
+            <g id="space-1055">
                 <path id="space_fill24" class="space_fill" d="M3130.86,2855.62l-2.321,91.702l-96.96,0l-0,130.118l-661.177,-0l2.013,-1936.82l862.371,-2.519l-0.023,1720.82" style="fill: #dfe3ea;" />
                 <clipPath id="_clip40"><path id="space_fill25" class="space_fill" d="M3130.86,2855.62l-2.321,91.702l-96.96,0l-0,130.118l-661.177,-0l2.013,-1936.82l862.371,-2.519l-0.023,1720.82" /></clipPath>
                 <g clip-path="url(#_clip40)">
@@ -3592,7 +3591,7 @@
                 />
             </g>
         </g>
-        <g id="study_rooms2" class="study_rooms">
+        <g id="study_rooms4" class="study_rooms">
             <g id="_56393" serif:id="56393">
                 <rect id="study_fill27" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
                 <rect id="study_fill28" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
@@ -3618,7 +3617,7 @@
                     </g>
                 </g>
             </g>
-            <g id="_36134" serif:id="36134">
+            <g id="study-36134">
                 <rect id="study_fill30" class="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
                 <rect id="study_fill31" class="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: #a1a9b9;" />
                 <clipPath id="_clip42"><rect id="study_fill32" class="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" /></clipPath>
@@ -3643,7 +3642,7 @@
                     </g>
                 </g>
             </g>
-            <g id="_55808" serif:id="55808">
+            <g id="study-55808">
                 <rect id="study_fill33" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
                 <rect id="study_fill34" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
                 <clipPath id="_clip43"><rect id="study_fill35" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
