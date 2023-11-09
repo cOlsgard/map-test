@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg
     width="100%"
@@ -11,29 +11,29 @@
     xmlns:serif="http://www.serif.com/"
     style="fill-rule: evenodd; clip-rule: evenodd; stroke-linecap: square; stroke-miterlimit: 1.5;"
 >
-    <g id="floor-1">
-        <g id="background">
+    <g class="floor" id="floor-1">
+        <g class="background">
             <path
                 d="M4499.04,3911.18l-1741.4,0l0,-50.733l-92.025,4.609l-0,48.163l-496.359,-2.039l-11.491,71.458l-1046.99,0l0,-64.947l-739.698,0l-0,-1280.29l-68.456,0l0,-1045.21l68.456,-0l-0,-451.914l223.95,-0l0,-431.631l550.653,-0l0,241.619l1147.68,-7.032l0,-177.467l660.456,-0l0,184.499l703.337,-0.106l-0.363,-517.774l225.038,-0l0,517.88l339.815,3.195l-59.425,2126.22l336.819,-0l0,831.497Z"
                 style="fill: #e6e8ec; stroke: #9a9a9a; stroke-opacity: 0; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
             />
         </g>
-        <g id="spaces">
+        <g class="spaces">
             <g id="_1045" serif:id="1045">
                 <path
-                    id="space_fill"
+                    class="space_fill"
                     d="M2370.83,2862.47l0.056,216.777l-2000.3,2.37l0.059,-444.653l-68.456,0l0,-1045.21l521.25,-2.338l1.147,-96.458l147.538,2.731l-1.909,-124.444l0,-231.405l1400.22,2.44l-0.024,1720.82"
                     style="fill: #dfe3ea;"
                 />
                 <clipPath id="_clip1">
                     <path
                         id="space_fill1"
-                        serif:id="space_fill"
+                        class="space_fill"
                         d="M2370.83,2862.47l0.056,216.777l-2000.3,2.37l0.059,-444.653l-68.456,0l0,-1045.21l521.25,-2.338l1.147,-96.458l147.538,2.731l-1.909,-124.444l0,-231.405l1400.22,2.44l-0.024,1720.82"
                     />
                 </clipPath>
                 <g clip-path="url(#_clip1)">
-                    <g id="lines">
+                    <g class="lines">
                         <path d="M2182,276.897l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M2332.16,278.392l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M2332.16,427.054l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
@@ -69,7 +69,7 @@
                 </g>
                 <path
                     id="space_fill2"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M2370.83,2862.47l0.056,216.777l-2000.3,2.37l0.059,-444.653l-68.456,0l0,-1045.21l521.25,-2.338l1.147,-96.458l147.538,2.731l-1.909,-124.444l0,-231.405l1400.22,2.44l-0.024,1720.82"
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 49.66px; stroke-dasharray: 4.97, 49.66, 9.93, 99.32;"
                 />
@@ -77,19 +77,19 @@
             <g id="_1046" serif:id="1046">
                 <path
                     id="space_fill3"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M3895.51,1132.26l-242.719,-2.372l2.749,1960.98l248.987,0l-10.885,-410.195l50.111,-6.48l-0,-129.481l-50.111,-7.043l-0,-56.63l181.031,-7.102l-0,-95.311l-181.031,-0.16l1.868,-4.597l-0,-1241.61Z"
                     style="fill: #dfe3ea;"
                 />
                 <clipPath id="_clip2">
                     <path
                         id="space_fill4"
-                        serif:id="space_fill"
+                        class="space_fill"
                         d="M3895.51,1132.26l-242.719,-2.372l2.749,1960.98l248.987,0l-10.885,-410.195l50.111,-6.48l-0,-129.481l-50.111,-7.043l-0,-56.63l181.031,-7.102l-0,-95.311l-181.031,-0.16l1.868,-4.597l-0,-1241.61Z"
                     />
                 </clipPath>
                 <g clip-path="url(#_clip2)">
-                    <g id="lines1" serif:id="lines">
+                    <g id="lines1" class="lines">
                         <path d="M4086.66,-148.928l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M4236.82,-147.433l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M4236.82,1.229l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
@@ -120,19 +120,19 @@
                 </g>
                 <path
                     id="space_fill5"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M3895.51,1132.26l-242.719,-2.372l2.749,1960.98l248.987,0l-10.885,-410.195l50.111,-6.48l-0,-129.481l-50.111,-7.043l-0,-56.63l181.031,-7.102l-0,-95.311l-181.031,-0.16l1.868,-4.597l-0,-1241.61Z"
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 2px;"
                 />
             </g>
         </g>
-        <g id="study_rooms">
+        <g class="study_rooms">
             <g id="_61355" serif:id="61355">
-                <rect id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
-                <rect id="study_fill1" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip3"><rect id="study_fill2" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
+                <rect class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
+                <rect id="study_fill1" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip3"><rect id="study_fill2" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip3)">
-                    <g id="open-lines">
+                    <g class="open-lines">
                         <path d="M2642.05,2616.34l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2585.27,2669.38l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2533.31,2725.09l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -141,7 +141,7 @@
                         <path d="M2369.93,2884.72l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2317.97,2940.42l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines">
+                    <g class="closed-lines">
                         <path d="M2838.6,2779.91l2.936,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2783.33,2778.59l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2729.18,2780.64l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -153,11 +153,11 @@
                 </g>
             </g>
             <g id="_36128" serif:id="36128">
-                <rect id="study_fill3" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
-                <rect id="study_fill4" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip4"><rect id="study_fill5" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
+                <rect id="study_fill3" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
+                <rect id="study_fill4" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip4"><rect id="study_fill5" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip4)">
-                    <g id="open-lines1" serif:id="open-lines">
+                    <g id="open-lines1" class="open-lines">
                         <path d="M2415.29,2631.23l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2358.51,2684.28l386.36,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2306.54,2739.98l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -166,7 +166,7 @@
                         <path d="M2143.17,2899.61l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2091.21,2955.32l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines1" serif:id="closed-lines">
+                    <g id="closed-lines1" class="closed-lines">
                         <path d="M2611.84,2794.81l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2556.57,2793.49l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2502.41,2795.53l2.936,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -178,7 +178,7 @@
                 </g>
             </g>
         </g>
-        <g id="rooms">
+        <g class="rooms">
             <g id="_184" serif:id="184">
                 <path d="M5146.89,312.508l-706.74,-0l-0,637.321l-358.499,-0l-1.249,193.487l1066.49,-1.035l0,-829.773Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 26px;" />
                 <path d="M5146.89,312.508l-706.74,-0l-0,637.321l-358.499,-0l-1.249,193.487l1066.49,-1.035l0,-829.773Z" style="fill: #bec7d8;" />
@@ -251,8 +251,8 @@
                 style="fill: #bec7d8; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
             />
         </g>
-        <g id="stairs">
-            <g id="Stairs">
+        <g class="stairs">
+            <g class="stairs">
                 <path d="M2798.88,2741.86l-94.764,0l-0,104.82l148.023,-0l-53.259,-104.82Z" style="fill: #9eacc6; stroke: #92a5c6; stroke-opacity: 0; stroke-width: 5.65px; stroke-dasharray: 1.7, 3.96, 0, 0; stroke-dashoffset: 5.09;" />
                 <path d="M3046.6,2738.03l-251.073,-0l54.072,120.936l197.001,0l-0,-120.936Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M3046.6,2738.03l-251.073,-0l54.072,120.936l197.001,0l-0,-120.936Z" style="fill: #acbcd7;" />
@@ -305,7 +305,7 @@
                 />
                 <path d="M3033.54,2737.5l-316.491,0" style="fill: none; stroke: #3e5074; stroke-width: 26px;" />
             </g>
-            <g id="stairs1" serif:id="stairs">
+            <g id="stairs1" class="stairs">
                 <g>
                     <path d="M4010.89,3077.96l227.376,0l-54.073,-120.937l-173.303,0l0,120.937Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                     <path d="M4010.89,3077.96l227.376,0l-54.073,-120.937l-173.303,0l0,120.937Z" style="fill: #acbcd7;" />
@@ -365,7 +365,7 @@
                 <path d="M4023.48,2949.97l257.894,-0" style="fill: none;" />
                 <path d="M4281.38,2949.97l-0,-133.254" style="fill: none; stroke: #3e5074; stroke-width: 26px;" />
             </g>
-            <g id="Stairs1" serif:id="Stairs">
+            <g id="Stairs1" class="stairs">
                 <path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" style="fill: #acbcd7;" />
                 <clipPath id="_clip7"><path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" /></clipPath>
@@ -418,7 +418,7 @@
                     style="fill: #3e5074; fill-rule: nonzero; stroke: #3e5074; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
                 />
             </g>
-            <g id="Stairs2" serif:id="Stairs">
+            <g id="Stairs2" class="stairs">
                 <path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" style="fill: #acbcd7;" />
                 <clipPath id="_clip8"><path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" /></clipPath>
@@ -472,7 +472,7 @@
                     style="fill: #3e5074; fill-rule: nonzero; stroke: #3e5074; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
                 />
             </g>
-            <g id="stairs2" serif:id="stairs">
+            <g id="stairs2" class="stairs">
                 <path
                     d="M527.161,1274.82l-45.446,-134.975l-111.074,-0l3.963,227.366l152.557,-1.409l0,-90.982Z"
                     style="fill: #9eacc6; stroke: #92a5c6; stroke-opacity: 0; stroke-width: 4.92px; stroke-dasharray: 1.47, 3.44, 0, 0; stroke-dashoffset: 4.42;"
@@ -532,7 +532,7 @@
                 <path d="M691.694,1253.36l-164.533,0" style="fill: none; stroke: #3e5074; stroke-width: 20.31px;" />
                 <path d="M691.694,1253.36l-164.533,0" style="fill: none;" />
             </g>
-            <g id="stairs3" serif:id="stairs">
+            <g id="stairs3" class="stairs">
                 <g>
                     <path d="M4008.74,1141.58l227.376,-0l-54.073,120.936l-173.303,0l0,-120.936Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                     <path d="M4008.74,1141.58l227.376,-0l-54.073,120.936l-173.303,0l0,-120.936Z" style="fill: #acbcd7;" />
@@ -608,7 +608,7 @@
                 <path d="M2540.97,942.797l166.445,-0" style="fill: none; stroke: #3e5074; stroke-width: 12px;" />
             </g>
         </g>
-        <g id="symbols">
+        <g class="symbols">
             <g id="Emergency-Exit" serif:id="Emergency Exit">
                 <rect x="3663.93" y="301.151" width="214.119" height="159.851" style="fill: #a82c2d;" />
                 <path
@@ -694,7 +694,7 @@
                 />
             </g>
         </g>
-        <g id="walls">
+        <g class="walls">
             <path d="M2757.2,3864.62l-92.025,0" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M2665.17,3912.78l-0,-48.163" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M2665.17,3912.78l-297.002,0" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
@@ -814,7 +814,7 @@
             <rect x="1216.19" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
             <rect x="2190.88" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
         </g>
-        <g id="doors">
+        <g class="doors">
             <path d="M3888.38,724.307l0,-116.528" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
             <path d="M3896.04,1453.03l-0,127.755" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
             <path d="M3895.46,2030.21l-0,127.754" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
@@ -869,7 +869,7 @@
             <path d="M3236.08,1565.18l0,127.754" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
             <path d="M3236.08,1209.28l0,127.754" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
         </g>
-        <g id="shelves">
+        <g class="shelves">
             <g>
                 <path d="M1415.2,2784.19l396.436,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
                 <path d="M1415.2,2656.97l396.436,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
@@ -1007,7 +1007,7 @@
             <path d="M1576.13,3799.92l517.466,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 16px; stroke-linecap: butt;" />
             <path d="M1576.13,3849.37l517.466,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 16px; stroke-linecap: butt;" />
         </g>
-        <g id="labels">
+        <g class="labels">
             <path
                 id="_166-label"
                 serif:id="166-label"
@@ -1273,7 +1273,7 @@
                 style="fill: #9eabc3; fill-rule: nonzero; stroke: #323232; stroke-opacity: 0; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
             />
         </g>
-        <g id="symbols1" serif:id="symbols">
+        <g id="symbols1" class="symbols">
             <g id="Book">
                 <path d="M2459.95,2008.75l-13.394,-18.471l-51.929,12.368l-52.257,-12.487l-15.158,18.59l-0,86.634l132.738,0l0,-86.634Z" style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 32.26px;" />
                 <path
@@ -1315,31 +1315,31 @@
             </g>
         </g>
     </g>
-    <g id="floor-1U">
-        <rect id="transition" x="0" y="-0" width="5680" height="4120" style="fill: #fff; fill-opacity: 0.63; stroke: #fff; stroke-width: 59.38px;" />
+    <g class="floor" id="floor-1U">
+        <rect class="transition" x="0" y="-0" width="5680" height="4120" style="fill: #fff; fill-opacity: 0.63; stroke: #fff; stroke-width: 59.38px;" />
         <path
             id="background1"
-            serif:id="background"
+            class="background"
             d="M1146.83,1144.2l1229.79,-0l0,-194.372l377.651,-0l0,194.372l483.548,-0l0,1405.52l156.77,-0l0,144.502l-161.845,-0l0,383.212l-2085.91,-0"
             style="fill: #e6e8ec; stroke: #3e5074; stroke-width: 0.72px;"
         />
-        <g id="spaces1" serif:id="spaces">
+        <g id="spaces1" class="spaces">
             <g id="_1049" serif:id="1049">
                 <path
                     id="space_fill6"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M3235.24,3075.07l-2088.41,2.371l0,-1933.24l1225.59,-3.58l10.459,-192.361l362.521,-1.059l13.442,192.291l475.949,-1.39l-0.019,1411.8l150.472,13.891l-0.002,121.18l-150.472,10.435l-0.002,163.52"
                     style="fill: #dfe3ea;"
                 />
                 <clipPath id="_clip11">
                     <path
                         id="space_fill7"
-                        serif:id="space_fill"
+                        class="space_fill"
                         d="M3235.24,3075.07l-2088.41,2.371l0,-1933.24l1225.59,-3.58l10.459,-192.361l362.521,-1.059l13.442,192.291l475.949,-1.39l-0.019,1411.8l150.472,13.891l-0.002,121.18l-150.472,10.435l-0.002,163.52"
                     />
                 </clipPath>
                 <g clip-path="url(#_clip11)">
-                    <g id="lines2" serif:id="lines">
+                    <g id="lines2" class="lines">
                         <path d="M3026.64,272.718l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M3176.8,274.212l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M3176.8,422.874l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
@@ -1375,19 +1375,19 @@
                 </g>
                 <path
                     id="space_fill8"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M3235.24,3075.07l-2088.41,2.371l0,-1933.24l1225.59,-3.58l10.459,-192.361l362.521,-1.059l13.442,192.291l475.949,-1.39l-0.019,1411.8l150.472,13.891l-0.002,121.18l-150.472,10.435l-0.002,163.52"
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 49.66px; stroke-dasharray: 4.97, 49.66, 9.93, 99.32;"
                 />
             </g>
         </g>
-        <g id="study_rooms1" serif:id="study_rooms">
+        <g id="study_rooms1" class="study_rooms">
             <g id="_36126" serif:id="36126">
-                <rect id="study_fill6" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
-                <rect id="study_fill7" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip12"><rect id="study_fill8" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
+                <rect id="study_fill6" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
+                <rect id="study_fill7" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip12"><rect id="study_fill8" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip12)">
-                    <g id="open-lines2" serif:id="open-lines">
+                    <g id="open-lines2" class="open-lines">
                         <path d="M2642.05,2616.34l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2585.27,2669.38l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2533.31,2725.09l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -1396,7 +1396,7 @@
                         <path d="M2369.93,2884.72l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2317.97,2940.42l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines2" serif:id="closed-lines">
+                    <g id="closed-lines2" class="closed-lines">
                         <path d="M2838.6,2779.91l2.936,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2783.33,2778.59l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2729.18,2780.64l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -1408,11 +1408,11 @@
                 </g>
             </g>
             <g id="_36127" serif:id="36127">
-                <rect id="study_fill9" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
-                <rect id="study_fill10" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip13"><rect id="study_fill11" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
+                <rect id="study_fill9" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
+                <rect id="study_fill10" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip13"><rect id="study_fill11" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip13)">
-                    <g id="open-lines3" serif:id="open-lines">
+                    <g id="open-lines3" class="open-lines">
                         <path d="M2415.29,2631.23l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2358.51,2684.28l386.36,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2306.54,2739.98l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -1421,7 +1421,7 @@
                         <path d="M2143.17,2899.61l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2091.21,2955.32l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines3" serif:id="closed-lines">
+                    <g id="closed-lines3" class="closed-lines">
                         <path d="M2611.84,2794.81l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2556.57,2793.49l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2502.41,2795.53l2.936,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -1433,14 +1433,14 @@
                 </g>
             </g>
         </g>
-        <g id="rooms1" serif:id="rooms">
+        <g id="rooms1" class="rooms">
             <g id="_120A-M" serif:id="120A-M">
                 <rect x="2828.38" y="2862.47" width="406.415" height="220.662" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 18.23px;" />
                 <rect x="2828.38" y="2862.47" width="406.415" height="220.662" style="fill: #bec7d8;" />
             </g>
         </g>
-        <g id="stairs4" serif:id="stairs">
-            <g id="Stairs3" serif:id="Stairs">
+        <g id="stairs4" class="stairs">
+            <g id="Stairs3" class="stairs">
                 <path d="M2798.88,2741.86l-94.764,0l-0,104.82l148.023,-0l-53.259,-104.82Z" style="fill: #9eacc6; stroke: #92a5c6; stroke-opacity: 0; stroke-width: 5.65px; stroke-dasharray: 1.7, 3.96, 0, 0; stroke-dashoffset: 5.09;" />
                 <path d="M3046.6,2738.03l-251.073,-0l54.072,120.936l197.001,0l-0,-120.936Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M3046.6,2738.03l-251.073,-0l54.072,120.936l197.001,0l-0,-120.936Z" style="fill: #acbcd7;" />
@@ -1497,7 +1497,7 @@
                     style="fill: #3e5074; fill-rule: nonzero; stroke: #3e5074; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
                 />
             </g>
-            <g id="Stairs4" serif:id="Stairs">
+            <g id="Stairs4" class="stairs">
                 <path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" style="fill: #acbcd7;" />
                 <clipPath id="_clip15"><path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" /></clipPath>
@@ -1557,7 +1557,7 @@
                     />
                 </g>
             </g>
-            <g id="Stairs5" serif:id="Stairs">
+            <g id="Stairs5" class="stairs">
                 <path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" style="fill: #acbcd7;" />
                 <clipPath id="_clip16"><path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" /></clipPath>
@@ -1615,7 +1615,7 @@
                 />
             </g>
         </g>
-        <g id="walls1" serif:id="walls">
+        <g id="walls1" class="walls">
             <path d="M3234.79,3077.44l0,-384.805l158.145,-0l0,-140.93l-158.145,0l0,-1407.79l-482.129,-0l0,-194.478" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M2494.02,948.107l-116.367,0l0,195.941l-1230.83,0" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M1145.13,1144.2l0,1933.24" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
@@ -1635,7 +1635,7 @@
             <rect x="1216.19" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
             <rect x="2190.88" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
         </g>
-        <g id="shelves1" serif:id="shelves">
+        <g id="shelves1" class="shelves">
             <g>
                 <path d="M1415.2,2784.19l396.436,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
                 <path d="M1415.2,2656.97l396.436,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
@@ -1709,7 +1709,7 @@
                 <path d="M2497.93,1419.72l530.96,-0" style="fill: none; stroke: #7c8ba6; stroke-width: 20px; stroke-linecap: butt; stroke-linejoin: round;" />
             </g>
         </g>
-        <g id="symbols2" serif:id="symbols">
+        <g id="symbols2" class="symbols">
             <g id="elevator1" serif:id="elevator">
                 <rect x="2494.02" y="798.823" width="259.118" height="142.358" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 11.63px;" />
                 <rect x="2494.02" y="798.823" width="259.118" height="142.358" style="fill: #9eacc6;" />
@@ -1748,7 +1748,7 @@
                 />
             </g>
         </g>
-        <g id="labels1" serif:id="labels">
+        <g id="labels1" class="labels">
             <path
                 id="_120A-M-label"
                 serif:id="120A-M-label"
@@ -1774,31 +1774,31 @@
             />
         </g>
     </g>
-    <g id="floor-2">
+    <g class="floor" id="floor-2">
         <rect id="white" x="15.761" y="14.971" width="5680" height="4120" style="fill: url(#_Linear17); stroke: #fff; stroke-width: 59.38px;" />
-        <g id="background2" serif:id="background">
+        <g id="background2" class="background">
             <path
                 d="M4488.41,3915.53l-1741.4,0l0,-50.733l-92.025,4.609l-0,48.163l-496.359,-2.039l-11.491,71.458l-1046.99,0l0,-64.947l-532.291,0l-12.085,-836.365l-195.761,0l0.438,-443.926l-68.455,0l0,-1045.21l68.455,-0l0,-451.914l365.952,-0l2.487,-190.45l-151.498,-1.834l1.154,-633.093l497.813,-0l24.798,-71.495l1040.36,-0l0.509,70.53l2994.06,0.965l-0,831.575l-825.417,0l-9.183,1932.74l186.934,0.466l0,831.497Z"
                 style="fill: #e6e8ec; stroke: #9a9a9a; stroke-opacity: 0; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
             />
         </g>
-        <g id="spaces2" serif:id="spaces">
+        <g id="spaces2" class="spaces">
             <g id="_1051" serif:id="1051">
                 <path
                     id="space_fill9"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M2370.83,2862.47l0.056,413.653l-1598.06,-1.249l0,-191.77l-208.851,-1.776l0.508,-183.132l271.035,0l0,-261.232l-533.327,0l0,-1045.21l521.25,-2.338l1.147,-449.818l1546.25,3.838l0,1719.67"
                     style="fill: #dfe3ea;"
                 />
                 <clipPath id="_clip18">
                     <path
                         id="space_fill10"
-                        serif:id="space_fill"
+                        class="space_fill"
                         d="M2370.83,2862.47l0.056,413.653l-1598.06,-1.249l0,-191.77l-208.851,-1.776l0.508,-183.132l271.035,0l0,-261.232l-533.327,0l0,-1045.21l521.25,-2.338l1.147,-449.818l1546.25,3.838l0,1719.67"
                     />
                 </clipPath>
                 <g clip-path="url(#_clip18)">
-                    <g id="lines3" serif:id="lines">
+                    <g id="lines3" class="lines">
                         <path d="M1912.14,135.699l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M2062.3,137.194l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M2062.3,285.856l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
@@ -1834,16 +1834,16 @@
                 </g>
                 <path
                     id="space_fill11"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M2370.83,2862.47l0.056,413.653l-1598.06,-1.249l0,-191.77l-208.851,-1.776l0.508,-183.132l271.035,0l0,-261.232l-533.327,0l0,-1045.21l521.25,-2.338l1.147,-449.818l1546.25,3.838l0,1719.67"
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 49.66px; stroke-dasharray: 4.97, 49.66, 9.93, 99.32;"
                 />
             </g>
             <g id="_1053" serif:id="1053">
-                <path id="space_fill12" serif:id="space_fill" d="M2754.51,3288.89l2.69,621.858l1741.4,0l0,-831.497l-609.719,-0l-2.77,209.639l-1131.61,0Z" style="fill: #dfe3ea;" />
-                <clipPath id="_clip19"><path id="space_fill13" serif:id="space_fill" d="M2754.51,3288.89l2.69,621.858l1741.4,0l0,-831.497l-609.719,-0l-2.77,209.639l-1131.61,0Z" /></clipPath>
+                <path id="space_fill12" class="space_fill" d="M2754.51,3288.89l2.69,621.858l1741.4,0l0,-831.497l-609.719,-0l-2.77,209.639l-1131.61,0Z" style="fill: #dfe3ea;" />
+                <clipPath id="_clip19"><path id="space_fill13" class="space_fill" d="M2754.51,3288.89l2.69,621.858l1741.4,0l0,-831.497l-609.719,-0l-2.77,209.639l-1131.61,0Z" /></clipPath>
                 <g clip-path="url(#_clip19)">
-                    <g id="lines4" serif:id="lines">
+                    <g id="lines4" class="lines">
                         <path d="M3736.75,1028.02l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M3886.91,1029.51l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M3886.91,1178.17l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
@@ -1874,17 +1874,17 @@
                 </g>
                 <path
                     id="space_fill14"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M2754.51,3288.89l2.69,621.858l1741.4,0l0,-831.497l-609.719,-0l-2.77,209.639l-1131.61,0Z"
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;"
                 />
             </g>
             <g id="_1050" serif:id="1050">
-                <path id="space_fill15" serif:id="space_fill" d="M5146.89,312.508l-2392.62,-0l-10.403,623.728l1143.38,0.187l1.644,207.078l1258,-1.22l0,-829.773Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 26px;" />
-                <path id="space_fill16" serif:id="space_fill" d="M5146.89,312.508l-2392.62,-0l-10.403,623.728l1143.38,0.187l1.644,207.078l1258,-1.22l0,-829.773Z" style="fill: #dfe3ea;" />
-                <clipPath id="_clip20"><path id="space_fill17" serif:id="space_fill" d="M5146.89,312.508l-2392.62,-0l-10.403,623.728l1143.38,0.187l1.644,207.078l1258,-1.22l0,-829.773Z" /></clipPath>
+                <path id="space_fill15" class="space_fill" d="M5146.89,312.508l-2392.62,-0l-10.403,623.728l1143.38,0.187l1.644,207.078l1258,-1.22l0,-829.773Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 26px;" />
+                <path id="space_fill16" class="space_fill" d="M5146.89,312.508l-2392.62,-0l-10.403,623.728l1143.38,0.187l1.644,207.078l1258,-1.22l0,-829.773Z" style="fill: #dfe3ea;" />
+                <clipPath id="_clip20"><path id="space_fill17" class="space_fill" d="M5146.89,312.508l-2392.62,-0l-10.403,623.728l1143.38,0.187l1.644,207.078l1258,-1.22l0,-829.773Z" /></clipPath>
                 <g clip-path="url(#_clip20)">
-                    <g id="lines5" serif:id="lines">
+                    <g id="lines5" class="lines">
                         <path d="M4015.98,-1396.14l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M4166.14,-1394.65l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M4166.14,-1245.99l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
@@ -1915,10 +1915,10 @@
                 </g>
             </g>
             <g id="_1052" serif:id="1052">
-                <path id="space_fill18" serif:id="space_fill" d="M3669.3,2822.82l647.188,0l0,-568.766l-245.911,-0l-0,-283.157l242.331,0l-0,-568.788l-642.977,-0l-0.631,1420.71Z" style="fill: #dfe3ea;" />
-                <clipPath id="_clip21"><path id="space_fill19" serif:id="space_fill" d="M3669.3,2822.82l647.188,0l0,-568.766l-245.911,-0l-0,-283.157l242.331,0l-0,-568.788l-642.977,-0l-0.631,1420.71Z" /></clipPath>
+                <path id="space_fill18" class="space_fill" d="M3669.3,2822.82l647.188,0l0,-568.766l-245.911,-0l-0,-283.157l242.331,0l-0,-568.788l-642.977,-0l-0.631,1420.71Z" style="fill: #dfe3ea;" />
+                <clipPath id="_clip21"><path id="space_fill19" class="space_fill" d="M3669.3,2822.82l647.188,0l0,-568.766l-245.911,-0l-0,-283.157l242.331,0l-0,-568.788l-642.977,-0l-0.631,1420.71Z" /></clipPath>
                 <g clip-path="url(#_clip21)">
-                    <g id="lines6" serif:id="lines">
+                    <g id="lines6" class="lines">
                         <path d="M4152.23,293.133l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M4302.38,294.627l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M4302.38,443.289l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
@@ -1949,13 +1949,13 @@
                 </g>
                 <path
                     id="space_fill20"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M3669.3,2822.82l647.188,0l0,-568.766l-245.911,-0l-0,-283.157l242.331,0l-0,-568.788l-642.977,-0l-0.631,1420.71Z"
                     style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 25.73px;"
                 />
             </g>
         </g>
-        <g id="rooms2" serif:id="rooms">
+        <g id="rooms2" class="rooms">
             <path d="M4023.48,1142.28l-127.444,0l-0,259.828l385.338,-0l-2.152,-132.55l-257.894,-0l2.152,-127.278Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 18.92px;" />
             <path d="M4023.48,1142.28l-127.444,0l-0,259.828l385.338,-0l-2.152,-132.55l-257.894,-0l2.152,-127.278Z" style="fill: #bec7d8;" />
             <rect x="4314.38" y="1860.7" width="168.248" height="503.844" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 12.01px;" />
@@ -2007,11 +2007,11 @@
         </g>
         <g id="study-rooms" serif:id="study rooms">
             <g id="_36129" serif:id="36129">
-                <rect id="study_fill12" serif:id="study_fill" x="3237.79" y="1143.5" width="268.956" height="233.445" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 12.54px;" />
-                <rect id="study_fill13" serif:id="study_fill" x="3237.79" y="1143.5" width="268.956" height="233.445" style="fill: #a1a9b9;" />
-                <clipPath id="_clip22"><rect id="study_fill14" serif:id="study_fill" x="3237.79" y="1143.5" width="268.956" height="233.445" /></clipPath>
+                <rect id="study_fill12" class="study_fill" x="3237.79" y="1143.5" width="268.956" height="233.445" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 12.54px;" />
+                <rect id="study_fill13" class="study_fill" x="3237.79" y="1143.5" width="268.956" height="233.445" style="fill: #a1a9b9;" />
+                <clipPath id="_clip22"><rect id="study_fill14" class="study_fill" x="3237.79" y="1143.5" width="268.956" height="233.445" /></clipPath>
                 <g clip-path="url(#_clip22)">
-                    <g id="open-lines4" serif:id="open-lines">
+                    <g id="open-lines4" class="open-lines">
                         <path d="M3275.59,897.372l394.016,394.016" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M3218.81,950.416l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M3166.84,1006.12l394.017,394.016" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -2020,7 +2020,7 @@
                         <path d="M3003.47,1165.75l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2951.51,1221.45l394.016,394.016" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines4" serif:id="closed-lines">
+                    <g id="closed-lines4" class="closed-lines">
                         <path d="M3472.14,1060.95l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M3416.87,1059.63l2.878,348.448" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M3362.72,1061.67l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -2032,8 +2032,8 @@
                 </g>
             </g>
         </g>
-        <g id="stairs5" serif:id="stairs">
-            <g id="stairs6" serif:id="stairs">
+        <g id="stairs5" class="stairs">
+            <g id="stairs6" class="stairs">
                 <path
                     d="M527.161,1274.82l-45.446,-134.975l-111.074,-0l3.963,227.366l152.557,-1.409l0,-90.982Z"
                     style="fill: #9eacc6; stroke: #92a5c6; stroke-opacity: 0; stroke-width: 4.92px; stroke-dasharray: 1.47, 3.44, 0, 0; stroke-dashoffset: 4.42;"
@@ -2145,7 +2145,7 @@
                     />
                 </g>
             </g>
-            <g id="stairs7" serif:id="stairs">
+            <g id="stairs7" class="stairs">
                 <g>
                     <path d="M4008.74,1141.58l227.376,-0l-54.073,120.936l-173.303,0l0,-120.936Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                     <path d="M4008.74,1141.58l227.376,-0l-54.073,120.936l-173.303,0l0,-120.936Z" style="fill: #acbcd7;" />
@@ -2255,7 +2255,7 @@
                     style="fill: #3e5074; fill-rule: nonzero; stroke: #3e5074; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
                 />
             </g>
-            <g id="stairs8" serif:id="stairs">
+            <g id="stairs8" class="stairs">
                 <g>
                     <path d="M4012.69,2819.36l227.375,0l-54.072,120.937l-173.303,0l-0,-120.937Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                     <path d="M4012.69,2819.36l227.375,0l-54.072,120.937l-173.303,0l-0,-120.937Z" style="fill: #acbcd7;" />
@@ -2365,7 +2365,7 @@
                     style="fill: #3e5074; fill-rule: nonzero; stroke: #3e5074; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
                 />
             </g>
-            <g id="Stairs6" serif:id="Stairs">
+            <g id="Stairs6" class="stairs">
                 <path d="M2798.88,2741.86l-94.764,0l-0,104.82l148.023,-0l-53.259,-104.82Z" style="fill: #9eacc6; stroke: #92a5c6; stroke-opacity: 0; stroke-width: 5.65px; stroke-dasharray: 1.7, 3.96, 0, 0; stroke-dashoffset: 5.09;" />
                 <path d="M3046.6,2738.03l-251.073,-0l54.072,120.936l197.001,0l-0,-120.936Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M3046.6,2738.03l-251.073,-0l54.072,120.936l197.001,0l-0,-120.936Z" style="fill: #acbcd7;" />
@@ -2422,7 +2422,7 @@
                     style="fill: #3e5074; fill-rule: nonzero; stroke: #3e5074; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
                 />
             </g>
-            <g id="Stairs7" serif:id="Stairs">
+            <g id="Stairs7" class="stairs">
                 <path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" style="fill: #acbcd7;" />
                 <clipPath id="_clip30"><path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" /></clipPath>
@@ -2482,7 +2482,7 @@
                     />
                 </g>
             </g>
-            <g id="Stairs8" serif:id="Stairs">
+            <g id="Stairs8" class="stairs">
                 <path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" style="fill: #acbcd7;" />
                 <clipPath id="_clip31"><path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" /></clipPath>
@@ -2540,7 +2540,7 @@
                 />
             </g>
         </g>
-        <g id="walls2" serif:id="walls">
+        <g id="walls2" class="walls">
             <path d="M4314.38,1926.74l77.387,0" style="fill: none; stroke: #7b88a1; stroke-width: 18px;" />
             <path d="M4314.38,1893.38l124.837,0" style="fill: none; stroke: #8e99ae; stroke-width: 18px;" />
             <path d="M4314.38,1861.73l168.248,0" style="fill: none; stroke: #a4adbe; stroke-width: 18px;" />
@@ -2663,7 +2663,7 @@
             <path d="M2756.35,3910.74l1742.26,0l0,-831.497" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M2757.2,3910.74l0,-634.621" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
         </g>
-        <g id="doors1" serif:id="doors">
+        <g id="doors1" class="doors">
             <path d="M3895.96,2863.07l0,168.502" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
             <path d="M3235.68,2760.4l0,110.869" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
             <path d="M3236.1,2558.09l-0,110.869" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
@@ -2695,7 +2695,7 @@
             <path d="M1338.7,412.714l-0,112.408" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
             <path d="M1338.7,525.122l-0,112.407" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
         </g>
-        <g id="shelves2" serif:id="shelves">
+        <g id="shelves2" class="shelves">
             <g>
                 <path d="M2487.5,2535.24l552.227,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
                 <path d="M2487.5,2411.8l552.227,0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
@@ -2727,7 +2727,7 @@
             <path d="M353.267,1694.86l481.105,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 61.45px; stroke-linecap: butt; stroke-linejoin: round;" />
             <path d="M366.396,1694.86l455.288,-0" style="fill: none; stroke: #7c8ba6; stroke-width: 20px; stroke-linecap: butt; stroke-linejoin: round;" />
         </g>
-        <g id="symbols3" serif:id="symbols">
+        <g id="symbols3" class="symbols">
             <g id="Emergency-Exit3" serif:id="Emergency Exit">
                 <rect x="724.53" y="1168.99" width="224.475" height="168.746" style="fill: #a82c2d;" />
                 <path
@@ -2862,7 +2862,7 @@
                 />
             </g>
         </g>
-        <g id="labels2" serif:id="labels">
+        <g id="labels2" class="labels">
             <path
                 id="_266A-label"
                 serif:id="266A-label"
@@ -3061,31 +3061,31 @@
             </g>
         </g>
     </g>
-    <g id="floor-2U">
-        <rect id="transition1" serif:id="transition" x="0" y="-0" width="5680" height="4120" style="fill: #fff; fill-opacity: 0.63; stroke: #fff; stroke-width: 59.38px;" />
+    <g class="floor" id="floor-2U">
+        <rect id="transition1" class="transition" x="0" y="-0" width="5680" height="4120" style="fill: #fff; fill-opacity: 0.63; stroke: #fff; stroke-width: 59.38px;" />
         <path
             id="background3"
-            serif:id="background"
+            class="background"
             d="M1146.83,1144.2l1229.79,-0l0,-194.372l377.651,-0l0,194.372l483.548,-0l0,1405.52l156.77,-0l0,144.502l-161.845,-0l0,383.212l-2085.91,-0"
             style="fill: #e6e8ec; stroke: #3e5074; stroke-width: 0.72px;"
         />
-        <g id="spaces3" serif:id="spaces">
+        <g id="spaces3" class="spaces">
             <g id="_1054" serif:id="1054">
                 <path
                     id="space_fill21"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M3235.24,3075.07l-2088.41,2.371l0,-1933.24l1225.59,-3.58l10.459,-192.361l362.521,-1.059l13.442,192.291l475.949,-1.39l-0.019,1411.8l150.472,13.891l-0.002,121.18l-150.472,10.435l-0.002,163.52"
                     style="fill: #dfe3ea;"
                 />
                 <clipPath id="_clip32">
                     <path
                         id="space_fill22"
-                        serif:id="space_fill"
+                        class="space_fill"
                         d="M3235.24,3075.07l-2088.41,2.371l0,-1933.24l1225.59,-3.58l10.459,-192.361l362.521,-1.059l13.442,192.291l475.949,-1.39l-0.019,1411.8l150.472,13.891l-0.002,121.18l-150.472,10.435l-0.002,163.52"
                     />
                 </clipPath>
                 <g clip-path="url(#_clip32)">
-                    <g id="lines7" serif:id="lines">
+                    <g id="lines7" class="lines">
                         <path d="M3026.64,272.718l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M3176.8,274.212l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M3176.8,422.874l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
@@ -3121,7 +3121,7 @@
                 </g>
                 <path
                     id="space_fill23"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M3235.24,3075.07l-2088.41,2.371l0,-1933.24l1225.59,-3.58l10.459,-192.361l362.521,-1.059l13.442,192.291l475.949,-1.39l-0.019,1411.8l150.472,13.891l-0.002,121.18l-150.472,10.435l-0.002,163.52"
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 49.66px; stroke-dasharray: 4.97, 49.66, 9.93, 99.32;"
                 />
@@ -3129,11 +3129,11 @@
         </g>
         <g id="study-rooms1" serif:id="study rooms">
             <g id="_36132" serif:id="36132">
-                <rect id="study_fill15" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
-                <rect id="study_fill16" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip33"><rect id="study_fill17" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
+                <rect id="study_fill15" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
+                <rect id="study_fill16" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip33"><rect id="study_fill17" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip33)">
-                    <g id="open-lines5" serif:id="open-lines">
+                    <g id="open-lines5" class="open-lines">
                         <path d="M2642.05,2616.34l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2585.27,2669.38l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2533.31,2725.09l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -3142,7 +3142,7 @@
                         <path d="M2369.93,2884.72l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2317.97,2940.42l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines5" serif:id="closed-lines">
+                    <g id="closed-lines5" class="closed-lines">
                         <path d="M2838.6,2779.91l2.936,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2783.33,2778.59l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2729.18,2780.64l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -3154,11 +3154,11 @@
                 </g>
             </g>
             <g id="_36131" serif:id="36131">
-                <rect id="study_fill18" serif:id="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
-                <rect id="study_fill19" serif:id="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip34"><rect id="study_fill20" serif:id="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" /></clipPath>
+                <rect id="study_fill18" class="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
+                <rect id="study_fill19" class="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip34"><rect id="study_fill20" class="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip34)">
-                    <g id="open-lines6" serif:id="open-lines">
+                    <g id="open-lines6" class="open-lines">
                         <path d="M2854.09,2616.34l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2797.3,2669.38l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2745.34,2725.09l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -3167,7 +3167,7 @@
                         <path d="M2581.97,2884.72l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2530,2940.42l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines6" serif:id="closed-lines">
+                    <g id="closed-lines6" class="closed-lines">
                         <path d="M3050.63,2779.91l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2995.36,2778.59l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2941.21,2780.64l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -3179,11 +3179,11 @@
                 </g>
             </g>
             <g id="_36130" serif:id="36130">
-                <path id="study_fill21" serif:id="study_fill" d="M3238.28,2855.28l-110.096,-0l-0,92.038l-96.599,0l-0,123.122l208.644,-0l-1.949,-215.16Z" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
-                <path id="study_fill22" serif:id="study_fill" d="M3238.28,2855.28l-110.096,-0l-0,92.038l-96.599,0l-0,123.122l208.644,-0l-1.949,-215.16Z" style="fill: #a1a9b9;" />
-                <clipPath id="_clip35"><path id="study_fill23" serif:id="study_fill" d="M3238.28,2855.28l-110.096,-0l-0,92.038l-96.599,0l-0,123.122l208.644,-0l-1.949,-215.16Z" /></clipPath>
+                <path id="study_fill21" class="study_fill" d="M3238.28,2855.28l-110.096,-0l-0,92.038l-96.599,0l-0,123.122l208.644,-0l-1.949,-215.16Z" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
+                <path id="study_fill22" class="study_fill" d="M3238.28,2855.28l-110.096,-0l-0,92.038l-96.599,0l-0,123.122l208.644,-0l-1.949,-215.16Z" style="fill: #a1a9b9;" />
+                <clipPath id="_clip35"><path id="study_fill23" class="study_fill" d="M3238.28,2855.28l-110.096,-0l-0,92.038l-96.599,0l-0,123.122l208.644,-0l-1.949,-215.16Z" /></clipPath>
                 <g clip-path="url(#_clip35)">
-                    <g id="open-lines7" serif:id="open-lines">
+                    <g id="open-lines7" class="open-lines">
                         <path d="M3069.39,2604.62l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M3012.6,2657.67l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2960.64,2713.37l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -3192,7 +3192,7 @@
                         <path d="M2797.27,2873l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2745.31,2928.71l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines7" serif:id="closed-lines">
+                    <g id="closed-lines7" class="closed-lines">
                         <path d="M3265.93,2768.2l2.936,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M3210.66,2766.88l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M3156.51,2768.93l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -3204,11 +3204,11 @@
                 </g>
             </g>
             <g id="_36133" serif:id="36133">
-                <rect id="study_fill24" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
-                <rect id="study_fill25" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip36"><rect id="study_fill26" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
+                <rect id="study_fill24" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
+                <rect id="study_fill25" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip36"><rect id="study_fill26" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip36)">
-                    <g id="open-lines8" serif:id="open-lines">
+                    <g id="open-lines8" class="open-lines">
                         <path d="M2415.29,2631.23l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2358.51,2684.28l386.36,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2306.54,2739.98l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -3217,7 +3217,7 @@
                         <path d="M2143.17,2899.61l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2091.21,2955.32l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines8" serif:id="closed-lines">
+                    <g id="closed-lines8" class="closed-lines">
                         <path d="M2611.84,2794.81l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2556.57,2793.49l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2502.41,2795.53l2.936,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -3229,8 +3229,8 @@
                 </g>
             </g>
         </g>
-        <g id="stairs9" serif:id="stairs">
-            <g id="Stairs9" serif:id="Stairs">
+        <g id="stairs9" class="stairs">
+            <g id="Stairs9" class="stairs">
                 <path d="M2798.88,2741.86l-94.764,0l-0,104.82l148.023,-0l-53.259,-104.82Z" style="fill: #9eacc6; stroke: #92a5c6; stroke-opacity: 0; stroke-width: 5.65px; stroke-dasharray: 1.7, 3.96, 0, 0; stroke-dashoffset: 5.09;" />
                 <path d="M3046.6,2738.03l-251.073,-0l54.072,120.936l197.001,0l-0,-120.936Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M3046.6,2738.03l-251.073,-0l54.072,120.936l197.001,0l-0,-120.936Z" style="fill: #acbcd7;" />
@@ -3287,7 +3287,7 @@
                     style="fill: #3e5074; fill-rule: nonzero; stroke: #3e5074; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
                 />
             </g>
-            <g id="Stairs10" serif:id="Stairs">
+            <g id="Stairs10" class="stairs">
                 <path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" style="fill: #acbcd7;" />
                 <clipPath id="_clip38"><path d="M1235.4,1931.11l0,251.073l120.937,-54.072l-0,-197.001l-120.937,0Z" /></clipPath>
@@ -3341,7 +3341,7 @@
                     style="fill: #3e5074; fill-rule: nonzero; stroke: #3e5074; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
                 />
             </g>
-            <g id="Stairs11" serif:id="Stairs">
+            <g id="Stairs11" class="stairs">
                 <path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" style="fill: #acbcd7;" />
                 <clipPath id="_clip39"><path d="M3052.24,1144.2l-251.073,-0l54.073,120.937l197,-0l0,-120.937Z" /></clipPath>
@@ -3399,7 +3399,7 @@
                 />
             </g>
         </g>
-        <g id="walls3" serif:id="walls">
+        <g id="walls3" class="walls">
             <path d="M3234.79,3077.44l0,-384.805l158.145,-0l0,-140.93l-158.145,0l0,-1407.79l-482.129,-0l0,-194.478" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M2494.02,948.107l-116.367,0l0,195.941l-1230.83,0" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M1145.13,1144.2l0,1933.24" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
@@ -3423,7 +3423,7 @@
             <rect x="1216.19" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
             <rect x="2190.88" y="2909.58" width="89.528" height="89.528" style="fill: #a9b4ca; stroke: #8f9cb3; stroke-width: 26px;" />
         </g>
-        <g id="shelves3" serif:id="shelves">
+        <g id="shelves3" class="shelves">
             <g>
                 <path d="M1415.2,2784.19l396.436,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
                 <path d="M1415.2,2656.97l396.436,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
@@ -3497,7 +3497,7 @@
                 <path d="M2497.93,1419.72l530.96,-0" style="fill: none; stroke: #7c8ba6; stroke-width: 20px; stroke-linecap: butt; stroke-linejoin: round;" />
             </g>
         </g>
-        <g id="symbols4" serif:id="symbols">
+        <g id="symbols4" class="symbols">
             <g id="elevator3" serif:id="elevator">
                 <rect x="2494.02" y="798.823" width="259.118" height="142.358" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 11.63px;" />
                 <rect x="2494.02" y="798.823" width="259.118" height="142.358" style="fill: #9eacc6;" />
@@ -3537,20 +3537,20 @@
             </g>
         </g>
     </g>
-    <g id="floor-3">
-        <rect id="transition2" serif:id="transition" x="-11.956" y="0" width="5680" height="4120" style="fill: #fff; fill-opacity: 0.63; stroke: #fff; stroke-width: 59.38px;" />
+    <g class="floor" id="floor-3">
+        <rect id="transition2" class="transition" x="-11.956" y="0" width="5680" height="4120" style="fill: #fff; fill-opacity: 0.63; stroke: #fff; stroke-width: 59.38px;" />
         <path
             id="background4"
-            serif:id="background"
+            class="background"
             d="M2376.62,1144.2l117.407,-0.153l-0,-194.219l260.244,-0l0,194.372l483.548,-0l1175.75,7.42l2.577,253.056l-100.015,4.772l-2.535,1409.05l108.881,1.807l2.403,257.13l-2054.47,-0"
             style="fill: #e6e8ec; stroke: #3e5074; stroke-width: 0.72px;"
         />
-        <g id="spaces4" serif:id="spaces">
+        <g id="spaces4" class="spaces">
             <g id="_1055" serif:id="1055">
-                <path id="space_fill24" serif:id="space_fill" d="M3130.86,2855.62l-2.321,91.702l-96.96,0l-0,130.118l-661.177,-0l2.013,-1936.82l862.371,-2.519l-0.023,1720.82" style="fill: #dfe3ea;" />
-                <clipPath id="_clip40"><path id="space_fill25" serif:id="space_fill" d="M3130.86,2855.62l-2.321,91.702l-96.96,0l-0,130.118l-661.177,-0l2.013,-1936.82l862.371,-2.519l-0.023,1720.82" /></clipPath>
+                <path id="space_fill24" class="space_fill" d="M3130.86,2855.62l-2.321,91.702l-96.96,0l-0,130.118l-661.177,-0l2.013,-1936.82l862.371,-2.519l-0.023,1720.82" style="fill: #dfe3ea;" />
+                <clipPath id="_clip40"><path id="space_fill25" class="space_fill" d="M3130.86,2855.62l-2.321,91.702l-96.96,0l-0,130.118l-661.177,-0l2.013,-1936.82l862.371,-2.519l-0.023,1720.82" /></clipPath>
                 <g clip-path="url(#_clip40)">
-                    <g id="lines8" serif:id="lines">
+                    <g id="lines8" class="lines">
                         <path d="M3148.01,109.632l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M3298.17,111.127l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
                         <path d="M3298.17,259.789l-2722.1,2722.1" style="fill: none; stroke: #c8c8c8; stroke-width: 40px; stroke-dasharray: 4, 40, 8, 80;" />
@@ -3586,19 +3586,19 @@
                 </g>
                 <path
                     id="space_fill26"
-                    serif:id="space_fill"
+                    class="space_fill"
                     d="M3130.86,2855.62l-2.321,91.702l-96.96,0l-0,130.118l-661.177,-0l2.013,-1936.82l862.371,-2.519l-0.023,1720.82"
                     style="fill: none; stroke: #b7b7b7; stroke-opacity: 0; stroke-width: 49.66px; stroke-dasharray: 4.97, 49.66, 9.93, 99.32;"
                 />
             </g>
         </g>
-        <g id="study_rooms2" serif:id="study_rooms">
+        <g id="study_rooms2" class="study_rooms">
             <g id="_56393" serif:id="56393">
-                <rect id="study_fill27" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
-                <rect id="study_fill28" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip41"><rect id="study_fill29" serif:id="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
+                <rect id="study_fill27" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.27px;" />
+                <rect id="study_fill28" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip41"><rect id="study_fill29" class="study_fill" x="2604.25" y="2862.47" width="215.302" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip41)">
-                    <g id="open-lines9" serif:id="open-lines">
+                    <g id="open-lines9" class="open-lines">
                         <path d="M2642.05,2616.34l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2585.27,2669.38l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2533.31,2725.09l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -3607,7 +3607,7 @@
                         <path d="M2369.93,2884.72l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2317.97,2940.42l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines9" serif:id="closed-lines">
+                    <g id="closed-lines9" class="closed-lines">
                         <path d="M2838.6,2779.91l2.936,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2783.33,2778.59l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2729.18,2780.64l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -3619,11 +3619,11 @@
                 </g>
             </g>
             <g id="_36134" serif:id="36134">
-                <rect id="study_fill30" serif:id="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
-                <rect id="study_fill31" serif:id="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip42"><rect id="study_fill32" serif:id="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" /></clipPath>
+                <rect id="study_fill30" class="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 10.01px;" />
+                <rect id="study_fill31" class="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip42"><rect id="study_fill32" class="study_fill" x="2816.28" y="2862.47" width="208.644" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip42)">
-                    <g id="open-lines10" serif:id="open-lines">
+                    <g id="open-lines10" class="open-lines">
                         <path d="M2854.09,2616.34l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2797.3,2669.38l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2745.34,2725.09l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -3632,7 +3632,7 @@
                         <path d="M2581.97,2884.72l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2530,2940.42l394.016,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines10" serif:id="closed-lines">
+                    <g id="closed-lines10" class="closed-lines">
                         <path d="M3050.63,2779.91l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2995.36,2778.59l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2941.21,2780.64l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -3644,11 +3644,11 @@
                 </g>
             </g>
             <g id="_55808" serif:id="55808">
-                <rect id="study_fill33" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
-                <rect id="study_fill34" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
-                <clipPath id="_clip43"><rect id="study_fill35" serif:id="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
+                <rect id="study_fill33" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: none; stroke: #ff6000; stroke-opacity: 0; stroke-width: 11.02px;" />
+                <rect id="study_fill34" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" style="fill: #a1a9b9;" />
+                <clipPath id="_clip43"><rect id="study_fill35" class="study_fill" x="2359.32" y="2859.99" width="233.843" height="219.688" /></clipPath>
                 <g clip-path="url(#_clip43)">
-                    <g id="open-lines11" serif:id="open-lines">
+                    <g id="open-lines11" class="open-lines">
                         <path d="M2415.29,2631.23l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2358.51,2684.28l386.36,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2306.54,2739.98l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
@@ -3657,7 +3657,7 @@
                         <path d="M2143.17,2899.61l386.361,386.361" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                         <path d="M2091.21,2955.32l394.017,394.017" style="fill: none; stroke: #19bd68; stroke-width: 28.97px;" />
                     </g>
-                    <g id="closed-lines11" serif:id="closed-lines">
+                    <g id="closed-lines11" class="closed-lines">
                         <path d="M2611.84,2794.81l2.935,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2556.57,2793.49l2.878,348.447" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
                         <path d="M2502.41,2795.53l2.936,355.352" style="fill: none; stroke: #df8058; stroke-width: 29px;" />
@@ -3669,7 +3669,7 @@
                 </g>
             </g>
         </g>
-        <g id="rooms3" serif:id="rooms">
+        <g id="rooms3" class="rooms">
             <rect id="_306" serif:id="306" x="3234.79" y="1143.91" width="234.807" height="395.795" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 12.68px;" />
             <rect x="3234.79" y="1143.91" width="234.807" height="395.795" style="fill: #bec7d8;" />
             <rect x="3234.79" y="2691.32" width="212.786" height="386.118" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 11.81px;" />
@@ -3699,8 +3699,8 @@
             <rect x="3899.33" y="2816.72" width="412.777" height="251.626" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 18.64px;" />
             <rect x="3899.33" y="2816.72" width="412.777" height="251.626" style="fill: #bec7d8;" />
         </g>
-        <g id="stairs10" serif:id="stairs">
-            <g id="Stairs12" serif:id="Stairs">
+        <g id="stairs10" class="stairs">
+            <g id="Stairs12" class="stairs">
                 <path d="M2951.8,2741.7l94.764,-0l0,104.819l-148.023,0l53.259,-104.819Z" style="fill: #9eacc6; stroke: #92a5c6; stroke-opacity: 0; stroke-width: 5.65px; stroke-dasharray: 1.7, 3.96, 0, 0; stroke-dashoffset: 5.09;" />
                 <path d="M2704.07,2737.87l251.073,0l-54.073,120.937l-197,-0l0,-120.937Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M2704.07,2737.87l251.073,0l-54.073,120.937l-197,-0l0,-120.937Z" style="fill: #acbcd7;" />
@@ -3753,7 +3753,7 @@
                 />
                 <path d="M2717.13,2737.34l316.491,-0" style="fill: none; stroke: #3e5074; stroke-width: 26px;" />
             </g>
-            <g id="Stairs13" serif:id="Stairs">
+            <g id="Stairs13" class="stairs">
                 <path d="M2699.6,1144.2l251.073,-0l-54.072,120.937l-197.001,-0l0,-120.937Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                 <path d="M2699.6,1144.2l251.073,-0l-54.072,120.937l-197.001,-0l0,-120.937Z" style="fill: #acbcd7;" />
                 <clipPath id="_clip45"><path d="M2699.6,1144.2l251.073,-0l-54.072,120.937l-197.001,-0l0,-120.937Z" /></clipPath>
@@ -3806,7 +3806,7 @@
                     style="fill: #3e5074; fill-rule: nonzero; stroke: #3e5074; stroke-width: 2px; stroke-linecap: butt; stroke-linejoin: round; stroke-miterlimit: 2;"
                 />
             </g>
-            <g id="stairs11" serif:id="stairs">
+            <g id="stairs11" class="stairs">
                 <g>
                     <path d="M4010.89,3077.96l227.376,0l-54.073,-120.937l-173.303,0l0,120.937Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                     <path d="M4010.89,3077.96l227.376,0l-54.073,-120.937l-173.303,0l0,120.937Z" style="fill: #acbcd7;" />
@@ -3866,7 +3866,7 @@
                 <path d="M4023.48,2949.97l257.894,-0" style="fill: none;" />
                 <path d="M4281.38,2949.97l-0,-133.254" style="fill: none; stroke: #3e5074; stroke-width: 26px;" />
             </g>
-            <g id="stairs12" serif:id="stairs">
+            <g id="stairs12" class="stairs">
                 <g>
                     <path d="M4008.74,1141.58l227.376,-0l-54.073,120.936l-173.303,0l0,-120.936Z" style="fill: none; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 10.75px;" />
                     <path d="M4008.74,1141.58l227.376,-0l-54.073,120.936l-173.303,0l0,-120.936Z" style="fill: #acbcd7;" />
@@ -3928,7 +3928,7 @@
                 <path d="M4279.22,1269.56l-0,133.254" style="fill: none;" />
             </g>
         </g>
-        <g id="shelves4" serif:id="shelves">
+        <g id="shelves4" class="shelves">
             <g>
                 <path d="M2487.5,2535.24l552.227,-0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
                 <path d="M2487.5,2411.8l552.227,0" style="fill: none; stroke: #5c6c8a; stroke-width: 58px; stroke-linecap: butt; stroke-linejoin: round;" />
@@ -3954,7 +3954,7 @@
                 <path d="M2497.93,1419.72l530.96,-0" style="fill: none; stroke: #7c8ba6; stroke-width: 20px; stroke-linecap: butt; stroke-linejoin: round;" />
             </g>
         </g>
-        <g id="walls4" serif:id="walls">
+        <g id="walls4" class="walls">
             <path d="M3234.79,3077.44l0,-384.805l158.145,-0l0,-140.93l-158.145,0l0,-859.778" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M3234.79,1143.91l-482.129,-0l0,-194.478" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
             <path d="M2590.3,1144.05l-219.892,0" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
@@ -4036,7 +4036,7 @@
             <path d="M3643.81,2838.69l-121.546,0" style="fill: none; stroke: #5c6c8a; stroke-width: 12px;" />
             <path d="M4313.49,1402.81l-0,1405.79" style="fill: none; stroke: #5c6c8a; stroke-width: 26px;" />
         </g>
-        <g id="symbols5" serif:id="symbols">
+        <g id="symbols5" class="symbols">
             <g id="Book4" serif:id="Book">
                 <path d="M2823.53,2610.66l-12.233,-16.871l-47.43,11.296l-47.729,-11.404l-13.845,16.979l0,79.127l121.237,0l-0,-79.127Z" style="fill: #556c97; fill-opacity: 0.4; stroke: #7f7f7f; stroke-opacity: 0; stroke-width: 29.46px;" />
                 <path
@@ -4091,7 +4091,7 @@
                 <path d="M2540.97,942.797l166.445,-0" style="fill: none; stroke: #3e5074; stroke-width: 12px;" />
             </g>
         </g>
-        <g id="labels3" serif:id="labels">
+        <g id="labels3" class="labels">
             <path
                 id="_308-label"
                 serif:id="308-label"
